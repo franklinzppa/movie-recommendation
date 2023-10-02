@@ -13,3 +13,5 @@ Some features of the project are
 * Most seem together movies;
 * Content-based recommendations;
 * Colaborative filtering;
+
+<a href="https://github.com/franklinzppa/movie-recommendation/blob/main/notebooks/recommendation.ipynb">See the notebook.</a>
